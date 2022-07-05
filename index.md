@@ -25,7 +25,13 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[Link](https://www.scu.edu.cn)
+[四川大学](https://www.scu.edu.cn)
+# 标题一
+## 标题二
+### 标题三
+
+**我们的主页**
+
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
