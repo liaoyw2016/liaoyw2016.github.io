@@ -1,0 +1,24 @@
+# jemdoc: menu{MENU}{index.html}
+= Yiwei Liao (廖义伟)
+
+~~~
+{}{img_left}{mypic.png}{alt text}{244.8px}{326.4px}{}
+Yiwei Liao \n
+Postdoc \n 
+[https://www.cuhk.edu.cn School of Data Science] \n
+[https://www.cuhk.edu.cn The Chineses University of Hong Kong, Shenzhen]  \n
+Contact: [lyw@stu.scu.edu.cn Email: lyw AT stu.scu.edu.cn]
+~~~
+
+== Short Bio 
+I am a Postdoc at CUHKSZ.
+== News 
+- \[07-01-2022\] "Test paper" accepted by TAC
+== Education 
+- Ph.D., School of Mathematics, Sichuan University, Sichuan, China, 2014 - 2019
+- B.E., School of Mathematics, Sichuan University, Sichuan, China, 2010 - 2014
+== Research Interests 
+- Information Fusion
+- Distributed Optimization 
+- Machine Learning 
+- Deep Learning 
